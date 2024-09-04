@@ -2,6 +2,10 @@
 
 ### **Basic Concepts**
 
+Some links for reference: 
+1. https://jestjs.io/docs/tutorial-react
+2. https://www.atlassian.com/continuous-delivery/software-testing/types-of-software-testing
+
 1. **What is Jest?**
 
    - A JavaScript testing framework used to test code by writing test cases. It’s popular for its simplicity and built-in features.
